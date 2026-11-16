@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\54157995830\\Desktop\\JSMusic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|c:\\users\\54157995830\\desktop\\jsmusic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|c:\\users\\54157995830\\desktop\\jsmusic\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|c:\\users\\54157995830\\desktop\\jsmusic\\controllers\\musicagenerocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|solutionrelative:controllers\\musicagenerocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|c:\\users\\54157995830\\desktop\\jsmusic\\controllers\\artistamusicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|solutionrelative:controllers\\artistamusicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|c:\\users\\54157995830\\desktop\\jsmusic\\controllers\\artistaalbumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|solutionrelative:controllers\\artistaalbumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|c:\\users\\54157995830\\desktop\\jsmusic\\controllers\\albummusicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|solutionrelative:controllers\\albummusicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|c:\\users\\54157995830\\desktop\\jsmusic\\controllers\\musicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|solutionrelative:controllers\\musicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|c:\\users\\54157995830\\desktop\\jsmusic\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|solutionrelative:controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|c:\\users\\54157995830\\desktop\\jsmusic\\controllers\\artistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|solutionrelative:controllers\\artistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|c:\\users\\54157995830\\desktop\\jsmusic\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|solutionrelative:controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|c:\\users\\54157995830\\desktop\\jsmusic\\dtos\\albumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|solutionrelative:dtos\\albumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|c:\\users\\54157995830\\desktop\\jsmusic\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|solutionrelative:dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|c:\\users\\54157995830\\desktop\\jsmusic\\dtos\\musicagenerodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|solutionrelative:dtos\\musicagenerodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|c:\\users\\54157995830\\desktop\\jsmusic\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|solutionrelative:repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|c:\\users\\54157995830\\desktop\\jsmusic\\repositories\\musicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|solutionrelative:repositories\\musicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|c:\\users\\54157995830\\desktop\\jsmusic\\repositories\\artistarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|solutionrelative:repositories\\artistarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|c:\\users\\54157995830\\desktop\\jsmusic\\utils\\passwordutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79ED341-B7BE-326C-F96F-994AC4BF46D8}|JSMusic.csproj|solutionrelative:utils\\passwordutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T19:00:56.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicaGeneroController.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Controllers\\MusicaGeneroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MusicaGeneroController.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Controllers\\MusicaGeneroController.cs",
+              "RelativeToolTip": "Controllers\\MusicaGeneroController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:58:57.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArtistaMusicaController.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Controllers\\ArtistaMusicaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArtistaMusicaController.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Controllers\\ArtistaMusicaController.cs",
+              "RelativeToolTip": "Controllers\\ArtistaMusicaController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:58:36.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwE0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:57:37.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArtistaAlbumController.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Controllers\\ArtistaAlbumController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArtistaAlbumController.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Controllers\\ArtistaAlbumController.cs",
+              "RelativeToolTip": "Controllers\\ArtistaAlbumController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:58:20.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlbumMusicaController.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Controllers\\AlbumMusicaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlbumMusicaController.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Controllers\\AlbumMusicaController.cs",
+              "RelativeToolTip": "Controllers\\AlbumMusicaController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwv1YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:57:59.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MusicaController.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Controllers\\MusicaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MusicaController.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Controllers\\MusicaController.cs",
+              "RelativeToolTip": "Controllers\\MusicaController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAA7wIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:57:21.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GeneroController.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Controllers\\GeneroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GeneroController.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Controllers\\GeneroController.cs",
+              "RelativeToolTip": "Controllers\\GeneroController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:57:05.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArtistaController.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Controllers\\ArtistaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArtistaController.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Controllers\\ArtistaController.cs",
+              "RelativeToolTip": "Controllers\\ArtistaController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAswGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:56:48.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlbumController.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Controllers\\AlbumController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlbumController.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Controllers\\AlbumController.cs",
+              "RelativeToolTip": "Controllers\\AlbumController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:56:27.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AlbumDTO.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\JSMusic\\DTOs\\AlbumDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\AlbumDTO.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\JSMusic\\DTOs\\AlbumDTO.cs",
+              "RelativeToolTip": "DTOs\\AlbumDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:55:01.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MusicaGeneroDTO.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\JSMusic\\DTOs\\MusicaGeneroDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\MusicaGeneroDTO.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\JSMusic\\DTOs\\MusicaGeneroDTO.cs",
+              "RelativeToolTip": "DTOs\\MusicaGeneroDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:54:04.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MusicaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Repositories\\MusicaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\MusicaRepository.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Repositories\\MusicaRepository.cs",
+              "RelativeToolTip": "Repositories\\MusicaRepository.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:52:30.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ArtistaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Repositories\\ArtistaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ArtistaRepository.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Repositories\\ArtistaRepository.cs",
+              "RelativeToolTip": "Repositories\\ArtistaRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:52:10.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\JSMusic\\DTOs\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\JSMusic\\DTOs\\UsuarioDTO.cs",
+              "RelativeToolTip": "DTOs\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:50:47.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:50:26.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PasswordUtils.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Utils\\PasswordUtils.cs",
+              "RelativeDocumentMoniker": "Utils\\PasswordUtils.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\JSMusic\\Utils\\PasswordUtils.cs",
+              "RelativeToolTip": "Utils\\PasswordUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:48:54.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
